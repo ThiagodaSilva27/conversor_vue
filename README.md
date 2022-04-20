@@ -1,4 +1,7 @@
-!(https://github.com/ThiagodaSilva27/conversor_vue/blob/conversor/img/Capturar.PNG)
+<div>
+  <img src="https://user-images.githubusercontent.com/58118544/164127523-bf0f8a7e-3fb0-459c-9b89-e03fe9b06b11.png" width="500px"
+</div>
+ <div>
 # Conversor de Moedas :moneybag:
 ## Conversor de Moedas feito em Vue.
 
@@ -44,3 +47,4 @@ npm run serve
 
 - [Vue](https://vuejs.org/)
 - [API](https://free.currconv.com/api/v7/convert?q=USD_PHP&compact=ultra&apiKey=3272e208457b8965cbe7)
+  </div>
